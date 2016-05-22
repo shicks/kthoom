@@ -22,7 +22,7 @@ kthoom.google = {
 
   authorize: function(immediate, callbackFn) {
     gapi.auth.authorize({
-      'client_id': kthoom.google.clientId,
+      'client_id': sdh-kthoom.google.clientId,
       'immediate': immediate,
       'response_type': 'token',
       'scope': [
