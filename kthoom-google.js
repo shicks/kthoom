@@ -8,8 +8,8 @@ if (window.kthoom == undefined) {
 
 kthoom.google = {
 
-  apiKey: 'AIzaSyApRwQ3x622fi29dZsn4DD98FqYax9dBHY',
-  clientId: '652854531961-pqkhcpcgqda9ag1b9p5gub0vv8f554q0.apps.googleusercontent.com',
+  apiKey: 'AIzaSyA-HHMPY-OKSa3B1MiF0ypusaFrP6rUs7w',
+  clientId: '865363266517-knvh6pr5batldolq06ro4chnodfr0hc2.apps.googleusercontent.com',
   authed: false,
   oathToken: undefined,
 
